@@ -1,8 +1,6 @@
 GroupDocs HTML5 PDF Comparison plugin for Plone CMS
 =============================
 
-
-
 ###Plugin installation steps:
 
 When plugin is available only on GitHub (not released to PyPi) it can be installed with buildout like this:
